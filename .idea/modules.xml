@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BLE.iml" filepath="$PROJECT_DIR$/BLE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BLE Client/BLE Client.iml" filepath="$PROJECT_DIR$/BLE Client/BLE Client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BLE Library/BLE Library.iml" filepath="$PROJECT_DIR$/BLE Library/BLE Library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BLE Server/BLE Server.iml" filepath="$PROJECT_DIR$/BLE Server/BLE Server.iml" />
+      <module fileurl="file://X:\BLE\BLEDemo.iml" filepath="X:\BLE\BLEDemo.iml" />
+      <module fileurl="file://X:\BLE\BLE Client\app.iml" filepath="X:\BLE\BLE Client\app.iml" />
+      <module fileurl="file://X:\BLE\BLE Server\ble_server.iml" filepath="X:\BLE\BLE Server\ble_server.iml" />
+      <module fileurl="file://X:\BLE\BLE Library\blelibrary.iml" filepath="X:\BLE\BLE Library\blelibrary.iml" />
+    </modules>
+  </component>
+</project>
